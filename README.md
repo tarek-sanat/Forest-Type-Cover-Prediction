@@ -18,3 +18,17 @@ This project uses a dataset from Kaggle that can be found here: [Kaggle](https:/
 ## Technologies Used
 * This project was built using Python. The Sklearn library was used since it provides various machine learning algorithms that could be used to make the predictions.
 Pandas and Matplotlib libraries were used throughout the project to work with the datasets and visualize some features.
+<div class="row">
+  <div class="column">
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="drawing" width="70"/>
+  </div>
+  <div class="column">
+    <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACreated_with_Matplotlib-logo.svg&psig=AOvVaw3RmFO1caHXL4qqbE-mU_9v&ust=1647221166523000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiqkJb3wfYCFQAAAAAdAAAAABAD" alt="drawing" width="100"/>
+  </div>
+  <div class="column">
+    <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhongtin.net%2Fai%2Fseri-101-phan%2Fscikit-learn-python-la-gi-cach-cai-dat-seri-101-phan-1-101-thu-vien-scikit-learn-va-giai-thuat-noi-tieng%2F&psig=AOvVaw0U5Smb1hsmhLclWVX73tbm&ust=1647221222524000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjqwLP3wfYCFQAAAAAdAAAAABAI" alt="drawing" width="80"/>
+  </div>
+  <div class="column">
+    <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpandas.pydata.org%2Fabout%2Fciting.html&psig=AOvVaw3w1J5ArBUaG-V5ZiDROvjq&ust=1647221198796000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjp_6X3wfYCFQAAAAAdAAAAABAI" width="120"/>
+  </div>
+</div>
