@@ -29,6 +29,6 @@ Pandas and Matplotlib libraries were used throughout the project to work with th
     <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhongtin.net%2Fai%2Fseri-101-phan%2Fscikit-learn-python-la-gi-cach-cai-dat-seri-101-phan-1-101-thu-vien-scikit-learn-va-giai-thuat-noi-tieng%2F&psig=AOvVaw0U5Smb1hsmhLclWVX73tbm&ust=1647221222524000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjqwLP3wfYCFQAAAAAdAAAAABAI" alt="drawing" width="80"/>
   </div>
   <div class="column">
-    <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpandas.pydata.org%2Fabout%2Fciting.html&psig=AOvVaw3w1J5ArBUaG-V5ZiDROvjq&ust=1647221198796000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjp_6X3wfYCFQAAAAAdAAAAABAI" width="120"/>
+    <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FScikit-learn&psig=AOvVaw0U5Smb1hsmhLclWVX73tbm&ust=1647221222524000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjqwLP3wfYCFQAAAAAdAAAAABAY" width="120"/>
   </div>
 </div>
