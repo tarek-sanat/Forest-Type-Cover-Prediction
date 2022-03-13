@@ -20,7 +20,7 @@ This project uses a dataset from Kaggle that can be found here: [Kaggle](https:/
 Pandas and Matplotlib libraries were used throughout the project to work with the datasets and visualize some features.
 <div class="row">
   <div class="column">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="drawing" width="70"/>
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="drawing" width="100"/>
   </div>
   <div class="column">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="drawing" width="100"/>
